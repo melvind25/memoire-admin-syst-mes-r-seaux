@@ -5,7 +5,7 @@ Projet de fin d'études réalisé dans le cadre du **Bachelor administrateur sys
 
 * **Auteur :** Melvin DIAWARA
 * **Profil LinkedIn :** [Melvin Diawara](https://www.linkedin.com/in/melvin-diawara-773b98213/)
-* **Document complet :** [Consulter le mémoire (PDF)](./docs/Memoire-Diawara-Melvin.pdf)
+* **Document complet :** [Consulter le mémoire (PDF)](.C:\Users\Melvin/Memoire-Diawara-Melvin.pdf)
 
 
 
